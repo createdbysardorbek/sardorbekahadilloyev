@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Facebook**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SardorSa](https://github.com/SardorSa)
+- 👨‍💻 All of my projects are available at [https://github.com/sardorbekahadilloyev](https://github.com/sardorbekahadilloyev)
 
 - 💬 Ask me about **Frontend Developing**
 
