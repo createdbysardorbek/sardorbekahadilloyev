@@ -1,33 +1,13 @@
-# Hi there, I'm Ali - aka [jahcoding][website] 👋 
+# Hi there, I'm Sardorbek Ahadilloyev
 
 
 
 
-## I'm a FrontEnd Developer, and Teacher!!
+## I'm a FrontEnd Developer!
 
-- 🔭 Check out my FrontEnd course: [OWA FrontEnd course (offline in Karshi, Uzbekistan)][course]!
-- 🌱 I’m currently learning everything
-- 🤝 I’m looking for opportunities to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about JS/ReactJS/Redux
-- ⚡ Fun fact: I love to read and play chess
-- 😻 Check out the pet projects I created: [PetProjects](https://jahcoding.uz/#portfolio)
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://jahcoding.uz/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://jahcoding.uz/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![youtube](./img/youtube-light.svg)](https://youtube.com/channel/UCnYtKVEtE66I3srI5baFX0w#gh-light-mode-only)
-[![youtube](./img/youtube-dark.svg)](https://youtube.com/channel/UCnYtKVEtE66I3srI5baFX0w#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/tg-light.svg)](https://t.me/jahcoding#gh-light-mode-only)
-[![website](./img/tg-dark.svg)](https://t.me/jahcoding#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jahcoding#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jahcoding#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/jahcoding#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/jahcoding#gh-dark-mode-only)
+- 🌱 I’m currently learning JavaScript
+- 🤝 I’m looking for opportunities to collaborate On Google
+- ⚡ Fun fact: I am philocalist
 
 
 ### Languages and Tools:
@@ -53,17 +33,4 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JahCoding's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jahcoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
-</details>
-
-[website]: https://jahcoding.uz
-[course]: http://owa.uz
-[telegram]: https://t.me/jahcoding
-[youtube]: https://www.youtube.com/channel/UCnYtKVEtE66I3srI5baFX0w
-[instagram]: https://instagram.com/jahcoding
-[linkedin]: https://linkedin.com/in/jahcoding
