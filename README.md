@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/sardorbekahadilloyev" target="blank"><img src="https://img.shields.io/twitter/follow/sardorbekahadilloyev?logo=twitter&style=for-the-badge" alt="sardorbekahadilloyev" /></a> </p>
 
-- 🔭 I’m currently working on **Fotoprokat24**
+- 🔭 I’m currently working on **Todo_app**
 
 - 🌱 I’m currently learning **JavaScript/React**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Frontend Developing**
 
-- 📫 How to reach me **cr720051010@gmail.com**
+- 📫 How to reach me ********
 
 - ⚡ Fun fact **I am philocalist**
 
