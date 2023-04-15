@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://twitter.com/sardorbekahadilloyev" target="blank"><img src="https://img.shields.io/twitter/follow/sardorbekahadilloyev?logo=twitter&style=for-the-badge" alt="sardorbekahadilloyev" /></a> </p>
 
-- 🔭 I’m currently working on **Todo_app**
+- 🔭 I’m currently working on **IdeaThon**
 
-- 🌱 I’m currently learning **JavaScript/React**
+- 🌱 I’m currently learning **JavaScript/React/TypeScript**
 
 - 👯 I’m looking to collaborate on **Google**
 
