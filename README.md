@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **IdeaThon**
 
-- 🌱 I’m currently learning **JavaScript/React/TypeScript**
+- 🌱 I’m currently learning **JavaScript/ReactJs/TypeScript**
 
 - 👯 I’m looking to collaborate on **Google**
 
 - 🤝 I’m looking for help with **Facebook**
 
-- 💬 Ask me about **Frontend Developing**
+- 💬 Ask me about **Frontend and PlayStation**
 
 - 📫 How to reach me ********
 
